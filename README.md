@@ -77,4 +77,6 @@ We recommend **Monero (XMR)** for maximum anonymity.
 ### 📢 Important Notice  
 This guide exists purely for academic research into darknet technologies. Accessing certain content may violate laws in your jurisdiction. Always prioritize safety and legality in your online activities.
 
-Update:  Wednesday 13 August 2025
+
+
+Update:  Tuesday 19 August 2025 link is operational
